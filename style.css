@@ -191,7 +191,7 @@ button:hover {
     color: black;
 }
 
-#kornImg {
+#kornImg, #diceImg, #drumImg {
     width: 350px;
     height: 200px;
     margin: 20px;
